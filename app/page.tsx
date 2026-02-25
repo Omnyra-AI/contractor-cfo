@@ -20,12 +20,6 @@ const tools = [
       "Understand the difference between markup and margin, and calculate both accurately.",
     href: "/tools/markup-margin-calculator",
   },
-  {
-    title: "Break-Even Calculator",
-    description:
-      "Find out how much revenue you need to cover your fixed and variable costs.",
-    href: "/tools/break-even-calculator",
-  },
 ];
 
 const guides = [

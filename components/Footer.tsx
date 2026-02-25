@@ -52,14 +52,6 @@ export function Footer() {
                   Markup vs Margin
                 </Link>
               </li>
-              <li>
-                <Link
-                  href="/tools/break-even-calculator"
-                  className="text-[var(--muted)] hover:text-[var(--text)]"
-                >
-                  Break-Even Calculator
-                </Link>
-              </li>
             </ul>
           </div>
 

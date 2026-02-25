@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Free Contractor Calculators | ContractorCFO",
   description:
-    "Free financial calculators for contractors: job costing, markup vs margin, break-even analysis, and more. Industry-standard formulas with sources cited.",
+    "Free financial calculators for contractors: job costing, markup vs margin, and more. Industry-standard formulas with sources cited.",
   keywords: [
     "contractor calculator",
     "job costing calculator",
@@ -27,13 +27,6 @@ const tools = [
       "Convert between markup and margin percentages. Understand why a 20% markup is only a 16.7% margin.",
     href: "/tools/markup-margin-calculator",
     category: "Pricing",
-  },
-  {
-    title: "Break-Even Calculator",
-    description:
-      "Calculate how much revenue you need to cover fixed costs. Essential for pricing decisions.",
-    href: "/tools/break-even-calculator",
-    category: "Planning",
   },
 ];
 
