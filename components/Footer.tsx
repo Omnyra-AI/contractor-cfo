@@ -86,10 +86,34 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Resources */}
+          {/* Articles */}
           <div>
-            <h4 className="font-semibold text-[var(--text)] mb-4">Resources</h4>
+            <h4 className="font-semibold text-[var(--text)] mb-4">Articles</h4>
             <ul className="space-y-2 text-sm">
+              <li>
+                <Link
+                  href="/articles/construction-cash-flow-failures"
+                  className="text-[var(--muted)] hover:text-[var(--text)]"
+                >
+                  Why Contractors Fail
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/articles/calculating-labor-burden"
+                  className="text-[var(--muted)] hover:text-[var(--text)]"
+                >
+                  True Cost of Employees
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/articles/markup-vs-margin-explained"
+                  className="text-[var(--muted)] hover:text-[var(--text)]"
+                >
+                  Markup vs Margin
+                </Link>
+              </li>
               <li>
                 <a
                   href="https://command-advisors.com"
@@ -98,16 +122,6 @@ export function Footer() {
                   className="text-[var(--muted)] hover:text-[var(--text)]"
                 >
                   What is a Command Advisor?
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://go.omnyra.ai"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-[var(--muted)] hover:text-[var(--text)]"
-                >
-                  Get Financial Monitoring
                 </a>
               </li>
             </ul>
