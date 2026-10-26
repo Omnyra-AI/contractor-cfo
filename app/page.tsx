@@ -165,14 +165,6 @@ export default function HomePage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://command-advisors.com/what-is-a-command-advisor"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-8 py-4 bg-[#0A0D1E] text-[var(--teal)] font-semibold rounded-xl border border-[var(--teal)] hover:no-underline hover:bg-[var(--teal)] hover:text-black transition-all"
-            >
-              What is a Command Advisor?
-            </a>
-            <a
               href="https://go.omnyra.ai"
               target="_blank"
               rel="noopener noreferrer"
