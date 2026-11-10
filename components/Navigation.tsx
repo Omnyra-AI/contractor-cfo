@@ -36,7 +36,7 @@ export function Navigation() {
               </Link>
             ))}
             <a
-              href="https://go.omnyra.ai"
+              href="https://omnyra.ai/book"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 bg-[#0A0D1E] text-[var(--teal)] font-semibold rounded-lg border border-[var(--teal)] hover:no-underline hover:bg-[var(--teal)] hover:text-black transition-all"
@@ -91,7 +91,7 @@ export function Navigation() {
                 </Link>
               ))}
               <a
-                href="https://go.omnyra.ai"
+                href="https://omnyra.ai/book"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-2 px-4 py-3 bg-[#0A0D1E] text-[var(--teal)] font-semibold rounded-lg border border-[var(--teal)] text-center hover:no-underline hover:bg-[var(--teal)] hover:text-black transition-all"
