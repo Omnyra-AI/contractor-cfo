@@ -432,7 +432,7 @@ export default function ContractorTaxesGuide() {
             on top of quarterly estimates and deduction opportunities.
           </p>
           <a
-            href="https://go.omnyra.ai"
+            href="https://omnyra.ai/book"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-[#0A0D1E] text-[var(--teal)] font-semibold rounded-xl border border-[var(--teal)] hover:no-underline hover:bg-[var(--teal)] hover:text-black transition-all"

@@ -430,7 +430,7 @@ export default function JobCostingBasicsGuide() {
               Open Job Costing Calculator
             </Link>
             <a
-              href="https://go.omnyra.ai"
+              href="https://omnyra.ai/book"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 bg-[#0A0D1E] border border-[var(--teal)]/40 text-[var(--text)] font-semibold rounded-xl hover:no-underline hover:border-[var(--teal)] transition-all"
